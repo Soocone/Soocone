@@ -1,12 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hello%20welcome%20to%20my%20page&fontSize=35&animation=fadeIn&rotate=-5)
 
-# **My traces and future**
+### **My traces and future**
 I am a full-stack engineer working in the financial industry for about two years   
 My eternal dream is to retire early 🔥
 
 
-### *Skills*
+#### *Skills*
 -------------
 ![Static Badge](https://img.shields.io/badge/Java-%234B4B77?logo=openjdk&logoColor=%234B4B77&color=%23F7DF1E)  ![Static Badge](https://img.shields.io/badge/C-%2300599C?logo=C&color=%2300599C)   
 ![Static Badge](https://img.shields.io/badge/JavaScript-%234B4B77?logo=JavaScript&logoColor=%234B4B77&color=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=%236DB33F&color=%23339933) ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?logo=vuedotjs&logoColor=%23FFFFFF&color=%234FC08D) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23FFFFFF&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=%23FFFFFF&color=%233178C6) ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=%23F7DF1E&color=%23339933)  ![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=%23FFFFFF&color=%2306B6D4)   
