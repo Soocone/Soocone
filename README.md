@@ -13,7 +13,7 @@ My eternal dream is to retire early 🔥
 ![Static Badge](https://img.shields.io/badge/Oracle-%23F80000?logo=oracle&logoColor=%23FFFFFF&color=%23F80000) ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?logo=mysql&logoColor=%23FFFFFF&color=%234479A1)   
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=%23FFFFFF&color=%23F05032) ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?logo=gitlab&logoColor=%23FFFFFF&color=%23FC6D26)
  ![Static Badge](https://img.shields.io/badge/Eclipse-%232C2255?logo=eclipseide&logoColor=%23FFFFFF&color=%232C2255) ![Static Badge](https://img.shields.io/badge/IntelliJ-%23000000?logo=intellijidea&logoColor=%23FFFFFF&color=%23000000) ![Static Badge](https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode&logoColor=%23FFFFFF&color=%23007ACC) ![Static Badge](https://img.shields.io/badge/Insomnia-%234000BF?logo=insomnia&logoColor=%23FFFFFF&color=%234000BF)   
-⬇ My swimming pools   
+###### ⬇ My swimming pools   
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?logo=notion&logoColor=%23FFFFFF&color=%23000000) ![Static Badge](https://img.shields.io/badge/AdobePremierePro-%239999FF?logo=adobepremierepro&logoColor=%23FFFFFF&color=%239999FF) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=%23FFFFFF&color=%23F24E1E) 
    
 
